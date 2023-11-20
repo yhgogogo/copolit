@@ -15,16 +15,3 @@
 
 #### 对于`VSCode`，步骤基本相同，执行对应`vscode.sh`/`vscode.bat`（如果是使用vscode远程连接Ubuntu服务器且副驾驶拓展安装在了远程服务器上，需要执行 `vscode-remote.sh`），**无需执行**`cocopilot.sh`/`cocopilot.bat`。
 #### `VSCode`中插件更新后需要重新执行脚本，`JetBrains`则不需要。
-
-
-### 贡献者们
-
-> 如果你刚好有路子、头也铁，可以[进行投喂](https://zhile.io/contribute-copilot-token)造福大家哦。
-
-> 感谢所有让这个项目变得更好的贡献者们！
-
-[![Star History Chart](https://contrib.rocks/image?repo=pengzhile/cocopilot)](https://github.com/pengzhile/cocopilot/graphs/contributors)
-
-### Star历史
-
-![Star History Chart](https://api.star-history.com/svg?repos=pengzhile/cocopilot&type=Date)
